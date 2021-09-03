@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NuwanSriBandara
-- 👀 I’m interested in deep learning in medical applications, computational cosmology and internet governance
+- 👀 I’m interested in deep learning (in medical applications), computational cosmology and internet governance
 - 🌱 I’m currently learning to emerge myself in these areas
-- 📫 How to reach me - Via Github
+- 📫 Reach me - Via pmnsribandara@gmail.com`
 
 <!---
 NuwanSriBandara/NuwanSriBandara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
