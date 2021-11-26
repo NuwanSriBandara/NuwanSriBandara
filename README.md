@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NuwanSriBandara
 - 👀 I’m interested in deep learning (in medical applications), computational cosmology and internet governance
-- 🌱 I’m currently learning to emerge myself in these areas
 - 📫 Reach me - via pmnsribandara@gmail.com`
 
 <!---
