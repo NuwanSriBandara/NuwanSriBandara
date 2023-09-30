@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m [@NuwanSriBandara](https://nuwansribandara.github.io/), a biomedical engineer who recently concluded his undergraduate studies in the Bachelor of Science of Biomedical Engineering (Honors) program at the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/), [University of Moratuwa, Sri Lanka](https://uom.lk/). Due to my interest in computational cosmology, I worked as a research assistant at the [Institute of Astronomy, Sri Lanka](https://ioas.lk/) as well. 
 - 👀 I’m interested in artificial intelligence for healthcare, medical instrumentation, biomedical {signal, image} processing, computational biology and internet governance.
-- 📫 Reach me - via pmnsribandara@gmail.com or [through my website](https://sites.google.com/view/nuwan-bandara/)
+- 📫 Reach me - via pmnsribandara@gmail.com or get to know more about me via [my personal website](https://sites.google.com/view/nuwan-bandara/)
 
 <!---
 NuwanSriBandara/NuwanSriBandara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
